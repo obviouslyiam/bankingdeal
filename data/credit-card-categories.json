@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Cash Back Credit Cards",
+    "slug": "cash-back",
+    "description": "Cash back credit cards return a percentage of your spending as cash rewards. These cards are ideal for everyday purchases and straightforward rewards without complicated point systems.",
+    "cards": [
+      { "name": "Citi Double Cash Card", "issuer": "Citibank", "rewardRate": "2% on all purchases", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "18.24%-28.24%", "bonus": "$200 welcome bonus" },
+      { "name": "Chase Freedom Unlimited", "issuer": "Chase", "rewardRate": "1.5% on all purchases", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "20.49%-29.24%", "bonus": "$200 bonus after $500 spent" },
+      { "name": "Wells Fargo Active Cash", "issuer": "Wells Fargo", "rewardRate": "2% on all purchases", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "20.24%-29.24%", "bonus": "$200 welcome bonus" },
+      { "name": "Discover it Cash Back", "issuer": "Discover", "rewardRate": "5% rotating categories, 1% all else", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "17.24%-28.24%", "bonus": "Cashback Match first year" },
+      { "name": "Capital One SavorOne", "issuer": "Capital One", "rewardRate": "3% dining/entertainment, 1% all else", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "19.99%-29.99%", "bonus": "$200 welcome bonus" }
+    ]
+  },
+  {
+    "name": "Travel Rewards Credit Cards",
+    "slug": "travel-rewards",
+    "description": "Travel rewards credit cards earn points or miles on purchases that can be redeemed for flights, hotels, and other travel expenses. Best for frequent travelers who want to maximize their travel spending.",
+    "cards": [
+      { "name": "Chase Sapphire Preferred", "issuer": "Chase", "rewardRate": "3x travel, 2x dining", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.49%-28.49%", "bonus": "60,000 points after $4,000 spent" },
+      { "name": "Capital One Venture Rewards", "issuer": "Capital One", "rewardRate": "2x on all purchases", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "75,000 miles after $4,000 spent" },
+      { "name": "Amex Gold Card", "issuer": "American Express", "rewardRate": "4x restaurants, 4x groceries", "annualFee": "$250", "introAPR": "N/A", "regularAPR": "21.99%-29.99%", "bonus": "60,000 points after $6,000 spent" },
+      { "name": "Citi Premier Card", "issuer": "Citibank", "rewardRate": "3x travel, gas, restaurants", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.24%-29.24%", "bonus": "60,000 points after $4,000 spent" },
+      { "name": "Bank of America Travel Rewards", "issuer": "Bank of America", "rewardRate": "1.5x on all purchases", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "18.24%-28.24%", "bonus": "25,000 points after $1,000 spent" }
+    ]
+  },
+  {
+    "name": "Balance Transfer Credit Cards",
+    "slug": "balance-transfer",
+    "description": "Balance transfer credit cards offer low or 0% introductory APR periods, allowing you to transfer existing credit card debt and pay it off without accruing additional interest charges.",
+    "cards": [
+      { "name": "Citi Simplicity Card", "issuer": "Citibank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-28.99%", "bonus": "21 months 0% on transfers" },
+      { "name": "Wells Fargo Reflect", "issuer": "Wells Fargo", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-29.24%", "bonus": "Up to 21 months 0% APR" },
+      { "name": "BankAmericard", "issuer": "Bank of America", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "16.24%-26.24%", "bonus": "18 months 0% on transfers" },
+      { "name": "Chase Slate Edge", "issuer": "Chase", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "20.49%-29.24%", "bonus": "Automatic APR review" },
+      { "name": "U.S. Bank Visa Platinum", "issuer": "U.S. Bank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "18.24%-28.24%", "bonus": "18 months 0% on transfers" }
+    ]
+  },
+  {
+    "name": "No Annual Fee Credit Cards",
+    "slug": "no-annual-fee",
+    "description": "No annual fee credit cards provide rewards and benefits without any yearly cost. These cards are perfect for cost-conscious consumers who want rewards without paying for the privilege.",
+    "cards": [
+      { "name": "Chase Freedom Unlimited", "issuer": "Chase", "rewardRate": "1.5% cash back", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "20.49%-29.24%", "bonus": "$200 welcome bonus" },
+      { "name": "Discover it Cash Back", "issuer": "Discover", "rewardRate": "5% rotating, 1% all else", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "17.24%-28.24%", "bonus": "Cashback Match" },
+      { "name": "Capital One QuicksilverOne", "issuer": "Capital One", "rewardRate": "1.5% cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "$200 welcome bonus" },
+      { "name": "Citi Double Cash", "issuer": "Citibank", "rewardRate": "2% cash back", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "18.24%-28.24%", "bonus": "$200 welcome bonus" },
+      { "name": "Bank of America Customized Cash", "issuer": "Bank of America", "rewardRate": "3% choice category, 2% grocery", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "17.24%-27.24%", "bonus": "$200 welcome bonus" }
+    ]
+  },
+  {
+    "name": "Business Credit Cards",
+    "slug": "business",
+    "description": "Business credit cards are designed for entrepreneurs and business owners, offering expense tracking, employee cards, and rewards optimized for common business spending categories.",
+    "cards": [
+      { "name": "Chase Ink Business Preferred", "issuer": "Chase", "rewardRate": "3x travel, shipping, internet", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "20.49%-25.49%", "bonus": "100,000 points after $8,000 spent" },
+      { "name": "Amex Blue Business Plus", "issuer": "American Express", "rewardRate": "2x on first $50K/yr", "annualFee": "$0", "introAPR": "0% for 12 months", "regularAPR": "18.49%-26.49%", "bonus": "15,000 points after $3,000 spent" },
+      { "name": "Capital One Spark Cash Plus", "issuer": "Capital One", "rewardRate": "2% cash back unlimited", "annualFee": "$150", "introAPR": "N/A", "regularAPR": "N/A (charge card)", "bonus": "$1,200 bonus" },
+      { "name": "Chase Ink Business Cash", "issuer": "Chase", "rewardRate": "5% office supplies, internet", "annualFee": "$0", "introAPR": "0% for 12 months", "regularAPR": "18.49%-24.49%", "bonus": "$750 after $6,000 spent" },
+      { "name": "Bank of America Business Advantage", "issuer": "Bank of America", "rewardRate": "3% choice category", "annualFee": "$0", "introAPR": "0% for 9 months", "regularAPR": "17.24%-27.24%", "bonus": "$300 after $3,000 spent" }
+    ]
+  },
+  {
+    "name": "Student Credit Cards",
+    "slug": "students",
+    "description": "Student credit cards are designed for college students with limited or no credit history. They offer lower credit limits, educational resources, and rewards tailored for student spending.",
+    "cards": [
+      { "name": "Discover it Student Cash Back", "issuer": "Discover", "rewardRate": "5% rotating categories", "annualFee": "$0", "introAPR": "0% for 6 months", "regularAPR": "17.24%-26.24%", "bonus": "Cashback Match + good grade reward" },
+      { "name": "Capital One Journey Student", "issuer": "Capital One", "rewardRate": "1% (1.25% with on-time payment)", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "Higher cash back for responsible use" },
+      { "name": "Chase Freedom Student", "issuer": "Chase", "rewardRate": "1% cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "20.49%-29.24%", "bonus": "$50 after first purchase" },
+      { "name": "Bank of America Customized Cash for Students", "issuer": "Bank of America", "rewardRate": "3% choice category", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "17.24%-27.24%", "bonus": "$200 welcome bonus" },
+      { "name": "Citi Rewards+ Student Card", "issuer": "Citibank", "rewardRate": "2x restaurants/gas, 1x all else", "annualFee": "$0", "introAPR": "0% for 7 months", "regularAPR": "18.24%-28.24%", "bonus": "2,500 points after $500 spent" }
+    ]
+  },
+  {
+    "name": "Bad Credit Credit Cards",
+    "slug": "bad-credit",
+    "description": "Credit cards for bad credit are designed for individuals with poor credit scores. These cards help rebuild credit through responsible use, though they typically come with higher fees and lower limits.",
+    "cards": [
+      { "name": "Capital One Platinum Secured", "issuer": "Capital One", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "30.49%", "bonus": "Automatic credit line reviews" },
+      { "name": "Discover it Secured", "issuer": "Discover", "rewardRate": "2% gas/restaurants, 1% all else", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "27.49%", "bonus": "Cashback Match + auto upgrade review" },
+      { "name": "OpenSky Secured Visa", "issuer": "OpenSky", "rewardRate": "N/A", "annualFee": "$35", "introAPR": "N/A", "regularAPR": "25.64%", "bonus": "No credit check to apply" },
+      { "name": "First Progress Platinum Prestige", "issuer": "First Progress", "rewardRate": "N/A", "annualFee": "$49", "introAPR": "N/A", "regularAPR": "24.49%", "bonus": "Reports to all 3 bureaus" },
+      { "name": "Chime Secured Credit Builder", "issuer": "Chime", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "N/A (no interest)", "bonus": "No credit check required" }
+    ]
+  },
+  {
+    "name": "Credit Building Cards",
+    "slug": "building-credit",
+    "description": "Credit building cards are specifically designed to help people establish or rebuild their credit history. These cards report to major credit bureaus and often come with tools to track your progress.",
+    "cards": [
+      { "name": "Discover it Secured", "issuer": "Discover", "rewardRate": "2% gas/restaurants, 1% all else", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "27.49%", "bonus": "Cashback Match first year" },
+      { "name": "Capital One Platinum Secured", "issuer": "Capital One", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "30.49%", "bonus": "Access higher credit line after 6 months" },
+      { "name": "Petal 2 Visa", "issuer": "Petal", "rewardRate": "1-1.5% cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "18.24%-32.24%", "bonus": "No credit history required" },
+      { "name": "Self Visa Credit Card", "issuer": "Self", "rewardRate": "N/A", "annualFee": "$25", "introAPR": "N/A", "regularAPR": "29.74%", "bonus": "Build credit with savings" },
+      { "name": "Chime Secured Credit Builder", "issuer": "Chime", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "N/A", "bonus": "No credit check, no interest" }
+    ]
+  },
+  {
+    "name": "Gas Rewards Credit Cards",
+    "slug": "gas-rewards",
+    "description": "Gas rewards credit cards offer elevated cash back or points on fuel purchases. These cards are best for commuters and frequent drivers who want to save at the pump.",
+    "cards": [
+      { "name": "Citi Custom Cash", "issuer": "Citibank", "rewardRate": "5% on top category (incl. gas)", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "18.24%-28.24%", "bonus": "$200 after $750 spent" },
+      { "name": "PenFed Platinum Rewards", "issuer": "PenFed", "rewardRate": "5x on gas", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "17.99%-18.00%", "bonus": "5x points on gas purchases" },
+      { "name": "Sam's Club Mastercard", "issuer": "Synchrony", "rewardRate": "5% on gas (first $6,000)", "annualFee": "$0 (membership required)", "introAPR": "N/A", "regularAPR": "21.24%-29.24%", "bonus": "5% gas, 3% dining/travel" },
+      { "name": "Blue Cash Preferred", "issuer": "American Express", "rewardRate": "3% on gas", "annualFee": "$0 first year, then $95", "introAPR": "0% for 12 months", "regularAPR": "19.24%-29.99%", "bonus": "$250 after $3,000 spent" },
+      { "name": "Costco Anywhere Visa", "issuer": "Citibank", "rewardRate": "4% on gas (first $7,000)", "annualFee": "$0 (membership required)", "introAPR": "N/A", "regularAPR": "20.49%", "bonus": "4% gas, 3% restaurants/travel" }
+    ]
+  },
+  {
+    "name": "Grocery Rewards Credit Cards",
+    "slug": "grocery-rewards",
+    "description": "Grocery rewards credit cards offer bonus cash back or points on supermarket purchases. Ideal for families and anyone who spends significantly on groceries each month.",
+    "cards": [
+      { "name": "Blue Cash Preferred", "issuer": "American Express", "rewardRate": "6% at supermarkets (up to $6K)", "annualFee": "$0 first year, then $95", "introAPR": "0% for 12 months", "regularAPR": "19.24%-29.99%", "bonus": "$250 after $3,000 spent" },
+      { "name": "Blue Cash Everyday", "issuer": "American Express", "rewardRate": "3% at supermarkets (up to $6K)", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "19.24%-29.99%", "bonus": "$200 after $2,000 spent" },
+      { "name": "Amex Gold Card", "issuer": "American Express", "rewardRate": "4x at supermarkets (up to $25K)", "annualFee": "$250", "introAPR": "N/A", "regularAPR": "21.99%-29.99%", "bonus": "60,000 points after $6,000 spent" },
+      { "name": "Capital One SavorOne", "issuer": "Capital One", "rewardRate": "3% on groceries", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "19.99%-29.99%", "bonus": "$200 welcome bonus" },
+      { "name": "Citi Custom Cash", "issuer": "Citibank", "rewardRate": "5% on top category (incl. grocery)", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "18.24%-28.24%", "bonus": "$200 after $750 spent" }
+    ]
+  },
+  {
+    "name": "Dining Rewards Credit Cards",
+    "slug": "dining-rewards",
+    "description": "Dining rewards credit cards offer bonus rewards on restaurant spending, food delivery, and dining out. Perfect for foodies and anyone who frequently eats at restaurants.",
+    "cards": [
+      { "name": "Capital One Savor Rewards", "issuer": "Capital One", "rewardRate": "4% dining, 4% entertainment", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "$300 welcome bonus" },
+      { "name": "Chase Sapphire Preferred", "issuer": "Chase", "rewardRate": "3x dining", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.49%-28.49%", "bonus": "60,000 points after $4,000 spent" },
+      { "name": "Amex Gold Card", "issuer": "American Express", "rewardRate": "4x restaurants worldwide", "annualFee": "$250", "introAPR": "N/A", "regularAPR": "21.99%-29.99%", "bonus": "60,000 points after $6,000 spent" },
+      { "name": "Capital One SavorOne", "issuer": "Capital One", "rewardRate": "3% dining", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "19.99%-29.99%", "bonus": "$200 welcome bonus" },
+      { "name": "Citi Premier Card", "issuer": "Citibank", "rewardRate": "3x restaurants", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.24%-29.24%", "bonus": "60,000 points after $4,000 spent" }
+    ]
+  },
+  {
+    "name": "Airline Miles Credit Cards",
+    "slug": "airline-miles",
+    "description": "Airline miles credit cards earn miles with specific airlines or flexible programs that can be transferred to airline partners. Best for frequent flyers looking to earn free flights.",
+    "cards": [
+      { "name": "Delta SkyMiles Gold Amex", "issuer": "American Express", "rewardRate": "2x Delta, restaurants", "annualFee": "$150", "introAPR": "N/A", "regularAPR": "20.99%-29.99%", "bonus": "40,000 miles after $2,000 spent" },
+      { "name": "United Explorer Card", "issuer": "Chase", "rewardRate": "2x United, dining, hotels", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.49%-28.49%", "bonus": "60,000 miles after $3,000 spent" },
+      { "name": "AAdvantage Platinum Select", "issuer": "Citibank", "rewardRate": "2x American Airlines", "annualFee": "$99", "introAPR": "N/A", "regularAPR": "20.49%-29.24%", "bonus": "50,000 miles after $2,500 spent" },
+      { "name": "Southwest Rapid Rewards Plus", "issuer": "Chase", "rewardRate": "2x Southwest, hotels", "annualFee": "$69", "introAPR": "N/A", "regularAPR": "20.49%-27.49%", "bonus": "50,000 points after $1,000 spent" },
+      { "name": "JetBlue Plus Card", "issuer": "Barclays", "rewardRate": "6x JetBlue, 2x restaurants", "annualFee": "$99", "introAPR": "N/A", "regularAPR": "21.49%-29.49%", "bonus": "60,000 points after $1,000 spent" }
+    ]
+  },
+  {
+    "name": "Hotel Rewards Credit Cards",
+    "slug": "hotel-rewards",
+    "description": "Hotel rewards credit cards earn points with hotel loyalty programs, offering free nights, room upgrades, and elite status. Ideal for frequent travelers who prefer specific hotel chains.",
+    "cards": [
+      { "name": "Marriott Bonvoy Boundless", "issuer": "Chase", "rewardRate": "6x Marriott, 2x all else", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "20.49%-27.49%", "bonus": "3 free nights (up to 50K pts each)" },
+      { "name": "Hilton Honors Amex Surpass", "issuer": "American Express", "rewardRate": "12x Hilton, 6x restaurants", "annualFee": "$150", "introAPR": "N/A", "regularAPR": "20.99%-29.99%", "bonus": "130,000 points after $3,000 spent" },
+      { "name": "IHG One Rewards Premier", "issuer": "Chase", "rewardRate": "10x IHG, 2x all else", "annualFee": "$99", "introAPR": "N/A", "regularAPR": "20.49%-27.49%", "bonus": "140,000 points after $3,000 spent" },
+      { "name": "World of Hyatt Card", "issuer": "Chase", "rewardRate": "4x Hyatt, 2x dining/travel", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.49%-28.49%", "bonus": "30,000 points after $3,000 spent" },
+      { "name": "Hilton Honors Amex", "issuer": "American Express", "rewardRate": "7x Hilton, 5x restaurants", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "20.99%-29.99%", "bonus": "70,000 points after $2,000 spent" }
+    ]
+  },
+  {
+    "name": "0% APR Credit Cards",
+    "slug": "0-apr",
+    "description": "0% APR credit cards offer an introductory period with no interest on purchases and/or balance transfers. Great for financing large purchases or paying down existing debt interest-free.",
+    "cards": [
+      { "name": "Citi Simplicity", "issuer": "Citibank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-28.99%", "bonus": "21 months 0% APR" },
+      { "name": "Wells Fargo Reflect", "issuer": "Wells Fargo", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-29.24%", "bonus": "21 months 0% APR" },
+      { "name": "Chase Freedom Unlimited", "issuer": "Chase", "rewardRate": "1.5% cash back", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "20.49%-29.24%", "bonus": "$200 welcome bonus" },
+      { "name": "U.S. Bank Visa Platinum", "issuer": "U.S. Bank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "18.24%-28.24%", "bonus": "18 months 0% APR" },
+      { "name": "BankAmericard", "issuer": "Bank of America", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "16.24%-26.24%", "bonus": "18 months 0% on transfers" }
+    ]
+  },
+  {
+    "name": "Low Interest Credit Cards",
+    "slug": "low-interest",
+    "description": "Low interest credit cards feature permanently lower APRs compared to typical credit cards. Best for people who occasionally carry a balance and want to minimize interest charges.",
+    "cards": [
+      { "name": "BankAmericard", "issuer": "Bank of America", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "16.24%-26.24%", "bonus": "Low ongoing rate" },
+      { "name": "PenFed Promise Visa", "issuer": "PenFed", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "17.99%", "bonus": "Low fixed rate" },
+      { "name": "U.S. Bank Visa Platinum", "issuer": "U.S. Bank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 18 months", "regularAPR": "18.24%-28.24%", "bonus": "Long 0% intro period" },
+      { "name": "Citi Simplicity", "issuer": "Citibank", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-28.99%", "bonus": "No late fees ever" },
+      { "name": "Wells Fargo Reflect", "issuer": "Wells Fargo", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "0% for 21 months", "regularAPR": "18.24%-29.24%", "bonus": "Extended 0% period" }
+    ]
+  },
+  {
+    "name": "No Foreign Transaction Fee Cards",
+    "slug": "no-foreign-transaction-fee",
+    "description": "No foreign transaction fee credit cards waive the typical 3% fee charged on international purchases. Essential for international travelers and anyone making purchases in foreign currencies.",
+    "cards": [
+      { "name": "Chase Sapphire Preferred", "issuer": "Chase", "rewardRate": "3x travel, 2x dining", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.49%-28.49%", "bonus": "60,000 points after $4,000 spent" },
+      { "name": "Capital One Venture Rewards", "issuer": "Capital One", "rewardRate": "2x on all purchases", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "75,000 miles after $4,000 spent" },
+      { "name": "Capital One Quicksilver", "issuer": "Capital One", "rewardRate": "1.5% cash back", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "19.99%-29.99%", "bonus": "$200 welcome bonus" },
+      { "name": "Discover it Miles", "issuer": "Discover", "rewardRate": "1.5x miles on all purchases", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "17.24%-28.24%", "bonus": "Miles Match first year" },
+      { "name": "Bank of America Travel Rewards", "issuer": "Bank of America", "rewardRate": "1.5x on all purchases", "annualFee": "$0", "introAPR": "0% for 15 months", "regularAPR": "18.24%-28.24%", "bonus": "25,000 points after $1,000 spent" }
+    ]
+  },
+  {
+    "name": "Luxury Credit Cards",
+    "slug": "luxury",
+    "description": "Luxury credit cards offer premium perks including airport lounge access, concierge services, travel credits, and elevated rewards. Designed for high spenders who value premium travel benefits.",
+    "cards": [
+      { "name": "Amex Platinum Card", "issuer": "American Express", "rewardRate": "5x flights, hotels", "annualFee": "$695", "introAPR": "N/A", "regularAPR": "21.99%-29.99%", "bonus": "80,000 points after $8,000 spent" },
+      { "name": "Chase Sapphire Reserve", "issuer": "Chase", "rewardRate": "3x travel/dining, 10x hotels via portal", "annualFee": "$550", "introAPR": "N/A", "regularAPR": "22.49%-29.49%", "bonus": "60,000 points after $4,000 spent" },
+      { "name": "Capital One Venture X", "issuer": "Capital One", "rewardRate": "2x all, 10x hotels/car via portal", "annualFee": "$395", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "75,000 miles after $4,000 spent" },
+      { "name": "Citi Strata Premier", "issuer": "Citibank", "rewardRate": "3x travel, dining, grocery", "annualFee": "$95", "introAPR": "N/A", "regularAPR": "21.24%-29.24%", "bonus": "75,000 points after $4,000 spent" },
+      { "name": "U.S. Bank Altitude Reserve", "issuer": "U.S. Bank", "rewardRate": "3x travel/mobile wallet", "annualFee": "$400", "introAPR": "N/A", "regularAPR": "21.24%-28.24%", "bonus": "50,000 points after $4,500 spent" }
+    ]
+  },
+  {
+    "name": "Small Business Credit Cards",
+    "slug": "small-business",
+    "description": "Small business credit cards provide expense management tools, employee cards, and rewards optimized for small business spending like office supplies, advertising, and shipping.",
+    "cards": [
+      { "name": "Chase Ink Business Cash", "issuer": "Chase", "rewardRate": "5% office, internet; 2% gas/dining", "annualFee": "$0", "introAPR": "0% for 12 months", "regularAPR": "18.49%-24.49%", "bonus": "$750 after $6,000 spent" },
+      { "name": "Amex Blue Business Cash", "issuer": "American Express", "rewardRate": "2% on first $50K/yr", "annualFee": "$0", "introAPR": "0% for 12 months", "regularAPR": "18.49%-26.49%", "bonus": "$250 after $3,000 spent" },
+      { "name": "Capital One Spark 1.5%", "issuer": "Capital One", "rewardRate": "1.5% unlimited cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "19.99%-29.99%", "bonus": "$500 after $4,500 spent" },
+      { "name": "Chase Ink Business Unlimited", "issuer": "Chase", "rewardRate": "1.5% cash back unlimited", "annualFee": "$0", "introAPR": "0% for 12 months", "regularAPR": "18.49%-24.49%", "bonus": "$750 after $6,000 spent" },
+      { "name": "Bank of America Business Advantage", "issuer": "Bank of America", "rewardRate": "3% choice category", "annualFee": "$0", "introAPR": "0% for 9 months", "regularAPR": "17.24%-27.24%", "bonus": "$300 after $3,000 spent" }
+    ]
+  },
+  {
+    "name": "Secured Credit Cards",
+    "slug": "secured",
+    "description": "Secured credit cards require a refundable security deposit that typically becomes your credit limit. These cards are designed for people with no credit or poor credit who want to build or rebuild their credit score.",
+    "cards": [
+      { "name": "Discover it Secured", "issuer": "Discover", "rewardRate": "2% gas/restaurants, 1% all else", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "27.49%", "bonus": "Cashback Match + upgrade review" },
+      { "name": "Capital One Platinum Secured", "issuer": "Capital One", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "30.49%", "bonus": "Access higher limit after 6 months" },
+      { "name": "Chime Secured Credit Builder", "issuer": "Chime", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "N/A", "bonus": "No credit check, no interest" },
+      { "name": "OpenSky Secured Visa", "issuer": "OpenSky", "rewardRate": "N/A", "annualFee": "$35", "introAPR": "N/A", "regularAPR": "25.64%", "bonus": "No credit check required" },
+      { "name": "Bank of America Secured", "issuer": "Bank of America", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "27.74%", "bonus": "Reports to all 3 bureaus" }
+    ]
+  },
+  {
+    "name": "First Credit Cards",
+    "slug": "first-credit-card",
+    "description": "First credit cards are ideal for people getting their very first credit card. These starter cards are designed to be easy to qualify for and help establish a credit history from scratch.",
+    "cards": [
+      { "name": "Discover it Student Cash Back", "issuer": "Discover", "rewardRate": "5% rotating categories", "annualFee": "$0", "introAPR": "0% for 6 months", "regularAPR": "17.24%-26.24%", "bonus": "Cashback Match first year" },
+      { "name": "Capital One Platinum", "issuer": "Capital One", "rewardRate": "N/A", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "30.49%", "bonus": "Higher credit line after 5 months" },
+      { "name": "Petal 2 Visa", "issuer": "Petal", "rewardRate": "1-1.5% cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "18.24%-32.24%", "bonus": "Uses banking data, not just credit" },
+      { "name": "Chase Freedom Rise", "issuer": "Chase", "rewardRate": "1.5% cash back", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "28.99%", "bonus": "Auto credit line increase review" },
+      { "name": "Discover it Secured", "issuer": "Discover", "rewardRate": "2% gas/restaurants, 1% all else", "annualFee": "$0", "introAPR": "N/A", "regularAPR": "27.49%", "bonus": "Cashback Match + auto upgrade" }
+    ]
+  }
+]

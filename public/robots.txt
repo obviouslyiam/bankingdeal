@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bankingdeal.com/sitemap.xml
