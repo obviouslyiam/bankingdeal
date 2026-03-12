@@ -13,8 +13,9 @@ export function generateStaticParams() {
   return states.map(state => ({ state: state.slug }));
 }
 
-export function generateMetadata({ params }: { params: { state: string } }): Metadata {
-  const state = states.find(s => s.slug === params.state);
+export async function generateMetadata({ params }: { params: Promise<{ state: string }> }): Promise<Metadata> {
+  const { state: stateSlug } = await params;
+  const state = states.find(s => s.slug === stateSlug);
   if (!state) return {};
   return {
     title: `Best Savings Accounts in ${state.name} (${state.abbreviation}) — 2026 APY Comparison`,
@@ -63,8 +64,9 @@ function getFAQs(state: State) {
   ];
 }
 
-export default function BestSavingsPage({ params }: { params: { state: string } }) {
-  const state = states.find(s => s.slug === params.state);
+export default async function BestSavingsPage({ params }: { params: Promise<{ state: string }> }) {
+  const { state: stateSlug } = await params;
+  const state = states.find(s => s.slug === stateSlug);
   if (!state) notFound();
 
   const savingsAccounts = getSavingsForState(state);

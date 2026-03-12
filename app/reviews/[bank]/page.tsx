@@ -12,8 +12,9 @@ export function generateStaticParams() {
   return banks.map(bank => ({ bank: bank.slug }));
 }
 
-export function generateMetadata({ params }: { params: { bank: string } }): Metadata {
-  const bank = banks.find(b => b.slug === params.bank);
+export async function generateMetadata({ params }: { params: Promise<{ bank: string }> }): Promise<Metadata> {
+  const { bank: bankSlug } = await params;
+  const bank = banks.find(b => b.slug === bankSlug);
   if (!bank) return {};
   return {
     title: `${bank.name} Review 2026 — Rates, Fees, Pros & Cons`,
@@ -46,8 +47,9 @@ function getBankFAQs(bank: Bank) {
   ];
 }
 
-export default function BankReviewPage({ params }: { params: { bank: string } }) {
-  const bank = banks.find(b => b.slug === params.bank);
+export default async function BankReviewPage({ params }: { params: Promise<{ bank: string }> }) {
+  const { bank: bankSlug } = await params;
+  const bank = banks.find(b => b.slug === bankSlug);
   if (!bank) notFound();
 
   const faqs = getBankFAQs(bank);

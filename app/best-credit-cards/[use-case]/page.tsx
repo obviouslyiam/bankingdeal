@@ -12,8 +12,9 @@ export function generateStaticParams() {
   return creditCardCategories.map(cat => ({ 'use-case': cat.slug }));
 }
 
-export function generateMetadata({ params }: { params: { 'use-case': string } }): Metadata {
-  const category = creditCardCategories.find(c => c.slug === params['use-case']);
+export async function generateMetadata({ params }: { params: Promise<{ 'use-case': string }> }): Promise<Metadata> {
+  const resolvedParams = await params;
+  const category = creditCardCategories.find(c => c.slug === resolvedParams['use-case']);
   if (!category) return {};
   return {
     title: `Best ${category.name} 2026 — Top Picks & Comparison`,
@@ -43,8 +44,9 @@ function getFAQs(category: Category) {
   ];
 }
 
-export default function BestCreditCardsPage({ params }: { params: { 'use-case': string } }) {
-  const category = creditCardCategories.find(c => c.slug === params['use-case']);
+export default async function BestCreditCardsPage({ params }: { params: Promise<{ 'use-case': string }> }) {
+  const resolvedParams = await params;
+  const category = creditCardCategories.find(c => c.slug === resolvedParams['use-case']);
   if (!category) notFound();
 
   const faqs = getFAQs(category);
