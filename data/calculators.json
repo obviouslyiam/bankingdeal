@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "savings-calculator",
+    "title": "Savings Calculator",
+    "shortTitle": "Savings Calculator",
+    "description": "Calculate how much your savings will grow over time with interest. See the impact of regular contributions and compound interest on your savings balance.",
+    "metaDescription": "Free savings calculator — find out how your savings will grow over time. Calculate future value with compound interest, regular deposits, and different APY rates.",
+    "category": "Savings",
+    "icon": "piggy-bank",
+    "relatedLinks": [
+      { "label": "Best High-Yield Savings Accounts", "href": "/bank-rates" },
+      { "label": "Compound Interest Calculator", "href": "/calculators/compound-interest-calculator" },
+      { "label": "Emergency Fund Calculator", "href": "/calculators/emergency-fund-calculator" }
+    ]
+  },
+  {
+    "slug": "cd-calculator",
+    "title": "CD Calculator",
+    "shortTitle": "CD Calculator",
+    "description": "Calculate the interest earned on a certificate of deposit. Compare CD terms and rates to find the best return on your investment.",
+    "metaDescription": "Free CD calculator — calculate interest earned on certificates of deposit. Compare APY rates and terms to maximize your CD returns.",
+    "category": "Savings",
+    "icon": "lock",
+    "relatedLinks": [
+      { "label": "Best CD Rates by State", "href": "/bank-rates" },
+      { "label": "Savings Calculator", "href": "/calculators/savings-calculator" },
+      { "label": "Compound Interest Calculator", "href": "/calculators/compound-interest-calculator" }
+    ]
+  },
+  {
+    "slug": "mortgage-calculator",
+    "title": "Mortgage Payment Calculator",
+    "shortTitle": "Mortgage Calculator",
+    "description": "Calculate your monthly mortgage payment including principal, interest, taxes, and insurance. See a full amortization schedule for any loan amount.",
+    "metaDescription": "Free mortgage payment calculator — calculate monthly payments, total interest paid, and see a full amortization schedule for any home loan.",
+    "category": "Home",
+    "icon": "home",
+    "relatedLinks": [
+      { "label": "Best Mortgage Rates by State", "href": "/bank-rates" },
+      { "label": "Loan Payment Calculator", "href": "/calculators/loan-payment-calculator" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" }
+    ]
+  },
+  {
+    "slug": "loan-payment-calculator",
+    "title": "Loan Payment Calculator",
+    "shortTitle": "Loan Calculator",
+    "description": "Calculate monthly payments for any type of loan including personal loans, auto loans, and student loans. See total interest cost and payoff timeline.",
+    "metaDescription": "Free loan payment calculator — calculate monthly payments, total interest, and payoff timeline for personal loans, auto loans, and more.",
+    "category": "Loans",
+    "icon": "dollar-sign",
+    "relatedLinks": [
+      { "label": "Mortgage Calculator", "href": "/calculators/mortgage-calculator" },
+      { "label": "Debt Payoff Calculator", "href": "/calculators/debt-payoff-calculator" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" }
+    ]
+  },
+  {
+    "slug": "compound-interest-calculator",
+    "title": "Compound Interest Calculator",
+    "shortTitle": "Compound Interest",
+    "description": "See how compound interest grows your money over time. Calculate future value with different compounding frequencies and contribution amounts.",
+    "metaDescription": "Free compound interest calculator — see how your money grows with daily, monthly, or annual compounding. Calculate future value and total interest earned.",
+    "category": "Savings",
+    "icon": "trending-up",
+    "relatedLinks": [
+      { "label": "Savings Calculator", "href": "/calculators/savings-calculator" },
+      { "label": "Retirement Calculator", "href": "/calculators/retirement-calculator" },
+      { "label": "Best Savings Accounts", "href": "/bank-rates" }
+    ]
+  },
+  {
+    "slug": "debt-payoff-calculator",
+    "title": "Debt Payoff Calculator",
+    "shortTitle": "Debt Payoff",
+    "description": "Find out how quickly you can pay off your debt and how much interest you will save by making extra payments. Compare avalanche vs. snowball payoff methods.",
+    "metaDescription": "Free debt payoff calculator — calculate how to pay off debt faster and save on interest. Compare extra payment strategies and debt payoff timelines.",
+    "category": "Debt",
+    "icon": "x-circle",
+    "relatedLinks": [
+      { "label": "Credit Card Payoff Calculator", "href": "/calculators/credit-card-payoff-calculator" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" },
+      { "label": "Loan Payment Calculator", "href": "/calculators/loan-payment-calculator" }
+    ]
+  },
+  {
+    "slug": "budget-calculator",
+    "title": "Monthly Budget Calculator",
+    "shortTitle": "Budget Calculator",
+    "description": "Create a monthly budget and see where your money goes. Track income vs. expenses and identify opportunities to save more each month.",
+    "metaDescription": "Free budget calculator — build a monthly budget, track expenses, and find ways to save more. Simple income vs. expense breakdown with savings rate.",
+    "category": "Budgeting",
+    "icon": "bar-chart",
+    "relatedLinks": [
+      { "label": "Emergency Fund Calculator", "href": "/calculators/emergency-fund-calculator" },
+      { "label": "Debt Payoff Calculator", "href": "/calculators/debt-payoff-calculator" },
+      { "label": "Retirement Calculator", "href": "/calculators/retirement-calculator" }
+    ]
+  },
+  {
+    "slug": "retirement-calculator",
+    "title": "Retirement Savings Calculator",
+    "shortTitle": "Retirement Calculator",
+    "description": "Project how much you will have at retirement based on your current savings, contributions, and expected investment returns. See if you are on track.",
+    "metaDescription": "Free retirement savings calculator — project your retirement balance, determine if you are on track, and see how contributions and returns affect your nest egg.",
+    "category": "Retirement",
+    "icon": "sunset",
+    "relatedLinks": [
+      { "label": "Compound Interest Calculator", "href": "/calculators/compound-interest-calculator" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" },
+      { "label": "Savings Calculator", "href": "/calculators/savings-calculator" }
+    ]
+  },
+  {
+    "slug": "credit-card-payoff-calculator",
+    "title": "Credit Card Payoff Calculator",
+    "shortTitle": "Credit Card Payoff",
+    "description": "Calculate how long it will take to pay off your credit card balance and how much interest you will pay. See the impact of paying more than the minimum.",
+    "metaDescription": "Free credit card payoff calculator — find out how long it takes to pay off credit card debt and how much interest you will save by paying more than the minimum.",
+    "category": "Debt",
+    "icon": "credit-card",
+    "relatedLinks": [
+      { "label": "Debt Payoff Calculator", "href": "/calculators/debt-payoff-calculator" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" },
+      { "label": "Best Credit Cards", "href": "/best-credit-cards/best-rewards-credit-cards" }
+    ]
+  },
+  {
+    "slug": "emergency-fund-calculator",
+    "title": "Emergency Fund Calculator",
+    "shortTitle": "Emergency Fund",
+    "description": "Find out how much you should have in your emergency fund and how long it will take to save it. Based on your monthly expenses and risk tolerance.",
+    "metaDescription": "Free emergency fund calculator — find out how much to save for emergencies and how long it will take. Personalized recommendations based on your monthly expenses.",
+    "category": "Savings",
+    "icon": "shield",
+    "relatedLinks": [
+      { "label": "Best High-Yield Savings Accounts", "href": "/bank-rates" },
+      { "label": "Budget Calculator", "href": "/calculators/budget-calculator" },
+      { "label": "Savings Calculator", "href": "/calculators/savings-calculator" }
+    ]
+  }
+]

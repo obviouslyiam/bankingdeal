@@ -2,1292 +2,1694 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bankingdeal.com/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/about</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/bank-rates</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/banking-deals</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/personal-finance</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://bankingdeal.com/calculators</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://bankingdeal.com/reviews/chase</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/bank-of-america</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/wells-fargo</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/citibank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/us-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/pnc</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/truist</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/capital-one</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/td-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/fifth-third</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/regions</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/citizens</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/key-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/huntington</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/m-and-t-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/ally-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/discover-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/marcus-by-goldman-sachs</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/american-express-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/synchrony-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/barclays</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/cit-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/popular-direct</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/bread-savings</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/bmo</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/first-national-bank</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/sofi</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/chime</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/varo</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/reviews/current</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/alabama</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/alaska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/arizona</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/arkansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/california</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/colorado</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/connecticut</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/delaware</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/florida</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/georgia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/hawaii</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/idaho</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/illinois</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/indiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/iowa</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/kansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/kentucky</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/louisiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/maine</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/maryland</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/massachusetts</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/michigan</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/minnesota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/mississippi</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/missouri</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/montana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/nebraska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/nevada</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/new-hampshire</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/new-jersey</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/new-mexico</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/new-york</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/north-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/north-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/ohio</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/oklahoma</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/oregon</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/pennsylvania</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/rhode-island</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/south-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/south-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/tennessee</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/texas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/utah</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/vermont</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/washington</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/west-virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/wisconsin</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-cd-rates/wyoming</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/alabama</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/alaska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/arizona</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/arkansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/california</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/colorado</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/connecticut</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/delaware</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/florida</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/georgia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/hawaii</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/idaho</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/illinois</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/indiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/iowa</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/kansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/kentucky</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/louisiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/maine</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/maryland</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/massachusetts</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/michigan</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/minnesota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/mississippi</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/missouri</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/montana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/nebraska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/nevada</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/new-hampshire</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/new-jersey</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/new-mexico</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/new-york</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/north-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/north-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/ohio</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/oklahoma</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/oregon</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/pennsylvania</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/rhode-island</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/south-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/south-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/tennessee</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/texas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/utah</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/vermont</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/washington</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/west-virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/wisconsin</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-savings-accounts/wyoming</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/alabama</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/alaska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/arizona</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/arkansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/california</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/colorado</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/connecticut</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/delaware</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/florida</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/georgia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/hawaii</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/idaho</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/illinois</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/indiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/iowa</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/kansas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/kentucky</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/louisiana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/maine</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/maryland</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/massachusetts</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/michigan</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/minnesota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/mississippi</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/missouri</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/montana</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/nebraska</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/nevada</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/new-hampshire</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/new-jersey</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/new-mexico</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/new-york</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/north-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/north-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/ohio</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/oklahoma</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/oregon</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/pennsylvania</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/rhode-island</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/south-carolina</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/south-dakota</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/tennessee</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/texas</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/utah</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/vermont</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/washington</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/west-virginia</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/wisconsin</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-mortgage-rates/wyoming</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/cash-back</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/travel-rewards</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/balance-transfer</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/no-annual-fee</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/business</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/students</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/bad-credit</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/building-credit</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/gas-rewards</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/grocery-rewards</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/dining-rewards</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/airline-miles</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/hotel-rewards</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/0-apr</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/low-interest</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/no-foreign-transaction-fee</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/luxury</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/small-business</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/secured</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/best-credit-cards/first-credit-card</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/how-to-open-a-savings-account</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/what-is-a-cd-certificate-of-deposit</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/how-to-improve-your-credit-score</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/fixed-vs-variable-mortgage-rates</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/how-to-choose-a-checking-account</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/understanding-apy-vs-apr</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/how-to-build-credit-from-scratch</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/best-budgeting-strategies</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/when-to-refinance-your-mortgage</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bankingdeal.com/guides/how-credit-card-rewards-work</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/new-york-city</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/los-angeles</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/chicago</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/houston</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/phoenix</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/philadelphia</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/san-antonio</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/san-diego</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/dallas</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/san-jose</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/austin</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/jacksonville</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/fort-worth</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/columbus</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/charlotte</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/indianapolis</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/san-francisco</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/seattle</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/denver</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/nashville</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/oklahoma-city</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/el-paso</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/washington-dc</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/las-vegas</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/louisville</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/memphis</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/portland</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/baltimore</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/milwaukee</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/albuquerque</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/tucson</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/fresno</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/sacramento</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/mesa</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/kansas-city</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/atlanta</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/omaha</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/colorado-springs</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/raleigh</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/long-beach</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/virginia-beach</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/minneapolis</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/tampa</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/new-orleans</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/cleveland</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/honolulu</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/anaheim</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/lexington</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/pittsburgh</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/st-louis</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/miami</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/boston</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/detroit</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/richmond</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/buffalo</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/best-banks/salt-lake-city</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/savings-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/cd-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/mortgage-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/loan-payment-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/compound-interest-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/debt-payoff-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/budget-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/retirement-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/credit-card-payoff-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bankingdeal.com/calculators/emergency-fund-calculator</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

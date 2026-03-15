@@ -1,0 +1,967 @@
+[
+  {
+    "slug": "new-york-city",
+    "city": "New York City",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "stateSlug": "new-york",
+    "population": 8336817,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "600+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "120+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "200+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "80+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "150+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 750000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 3979576,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "250+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "180+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "200+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "60+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "80+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "40+" }
+    ],
+    "medianHomePrice": 820000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "stateSlug": "illinois",
+    "population": 2696555,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "300+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "120+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "150+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "60+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "40+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "80+" }
+    ],
+    "medianHomePrice": 320000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "houston",
+    "city": "Houston",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 2304580,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "200+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "130+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "150+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "60+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" }
+    ],
+    "medianHomePrice": 285000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "stateSlug": "arizona",
+    "population": 1680992,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "100+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "70+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "80+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "50+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 380000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "philadelphia",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "stateSlug": "pennsylvania",
+    "population": 1584064,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "120+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "80+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "90+" },
+      { "name": "Citizens Bank", "slug": "citizens", "localBranches": "60+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "100+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" }
+    ],
+    "medianHomePrice": 250000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 1547253,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "80+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "60+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "70+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "40+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 260000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 1423851,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "90+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "70+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "80+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 870000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 1343573,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "150+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "100+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "120+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "30+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "20+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" }
+    ],
+    "medianHomePrice": 330000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "san-jose",
+    "city": "San Jose",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 1021795,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "50+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "40+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 1300000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "austin",
+    "city": "Austin",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 978908,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 560000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "stateSlug": "florida",
+    "population": 949611,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "50+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "40+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "30+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 295000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "fort-worth",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 935508,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 310000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "stateSlug": "ohio",
+    "population": 905748,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "80+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "100+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "60+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 280000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "stateSlug": "north-carolina",
+    "population": 885708,
+    "topBanks": [
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "100+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "80+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 390000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "stateSlug": "indiana",
+    "population": 887642,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "50+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "40+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "30+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "50+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "40+" }
+    ],
+    "medianHomePrice": 275000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 873965,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "50+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "60+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "20+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 1400000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "stateSlug": "washington",
+    "population": 737255,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 780000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "stateSlug": "colorado",
+    "population": 715522,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 560000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "stateSlug": "tennessee",
+    "population": 689447,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "50+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "30+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "40+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "50+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 440000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "stateSlug": "oklahoma",
+    "population": 681054,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 215000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "stateSlug": "texas",
+    "population": 678815,
+    "topBanks": [
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "20+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "10+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 205000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "washington-dc",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "stateAbbr": "DC",
+    "stateSlug": "district-of-columbia",
+    "population": 689545,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "50+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "40+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "20+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "30+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" }
+    ],
+    "medianHomePrice": 640000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "las-vegas",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "stateSlug": "nevada",
+    "population": 641903,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "50+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "30+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "40+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 390000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "stateSlug": "kentucky",
+    "population": 633045,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "30+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "30+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "25+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 235000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "stateSlug": "tennessee",
+    "population": 633104,
+    "topBanks": [
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "50+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "30+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 190000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "stateAbbr": "OR",
+    "stateSlug": "oregon",
+    "population": 652503,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "25+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "40+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "25+" }
+    ],
+    "medianHomePrice": 520000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "baltimore",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "stateAbbr": "MD",
+    "stateSlug": "maryland",
+    "population": 585708,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "30+" },
+      { "name": "M&T Bank", "slug": "m-and-t-bank", "localBranches": "60+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "30+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "40+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 280000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "stateSlug": "wisconsin",
+    "population": 577222,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "25+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 220000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "stateSlug": "new-mexico",
+    "population": 564559,
+    "topBanks": [
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "25+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "10+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 280000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "stateSlug": "arizona",
+    "population": 548073,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "15+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 295000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "fresno",
+    "city": "Fresno",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 542107,
+    "topBanks": [
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "10+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "8+" }
+    ],
+    "medianHomePrice": 340000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 524943,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "25+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 490000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "mesa",
+    "city": "Mesa",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "stateSlug": "arizona",
+    "population": 504258,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "15+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 370000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "kansas-city",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "stateSlug": "missouri",
+    "population": 508090,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "25+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 260000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "stateSlug": "georgia",
+    "population": 498715,
+    "topBanks": [
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "80+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "70+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "50+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "40+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 420000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "stateAbbr": "NE",
+    "stateSlug": "nebraska",
+    "population": 486051,
+    "topBanks": [
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "15+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "10+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 270000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "colorado-springs",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "stateSlug": "colorado",
+    "population": 478221,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "15+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 420000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "stateSlug": "north-carolina",
+    "population": 467665,
+    "topBanks": [
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "40+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "40+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "25+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 430000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "long-beach",
+    "city": "Long Beach",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 466742,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "10+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 700000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "virginia-beach",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "stateSlug": "virginia",
+    "population": 459470,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "20+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "25+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 330000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "stateAbbr": "MN",
+    "stateSlug": "minnesota",
+    "population": 429606,
+    "topBanks": [
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "60+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "BMO", "slug": "bmo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 330000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "stateSlug": "florida",
+    "population": 399700,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "30+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "30+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "20+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 380000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "new-orleans",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "stateSlug": "louisiana",
+    "population": 383997,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "30+" },
+      { "name": "Truist", "slug": "truist", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "15+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 265000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "cleveland",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "stateSlug": "ohio",
+    "population": 372624,
+    "topBanks": [
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "50+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "30+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "30+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "20+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 175000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "honolulu",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "stateSlug": "hawaii",
+    "population": 350964,
+    "topBanks": [
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "10+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "10+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "8+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "5+" }
+    ],
+    "medianHomePrice": 780000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "anaheim",
+    "city": "Anaheim",
+    "state": "California",
+    "stateAbbr": "CA",
+    "stateSlug": "california",
+    "population": 346824,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "15+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "12+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "10+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "8+" }
+    ],
+    "medianHomePrice": 780000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "lexington",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "stateSlug": "kentucky",
+    "population": 323152,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "10+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "15+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "10+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "10+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "8+" }
+    ],
+    "medianHomePrice": 285000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "pittsburgh",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "stateSlug": "pennsylvania",
+    "population": 302971,
+    "topBanks": [
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "60+" },
+      { "name": "Citizens Bank", "slug": "citizens", "localBranches": "20+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "15+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "M&T Bank", "slug": "m-and-t-bank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 220000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "st-louis",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "stateSlug": "missouri",
+    "population": 301578,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "25+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "20+" },
+      { "name": "Regions Bank", "slug": "regions", "localBranches": "15+" },
+      { "name": "Centrue", "slug": "fifth-third", "localBranches": "10+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 200000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "miami",
+    "city": "Miami",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "stateSlug": "florida",
+    "population": 467963,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "60+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "50+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "30+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "25+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 620000,
+    "costOfLiving": "High"
+  },
+  {
+    "slug": "boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "stateSlug": "massachusetts",
+    "population": 695506,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "50+" },
+      { "name": "Citizens Bank", "slug": "citizens", "localBranches": "60+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "40+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "20+" },
+      { "name": "M&T Bank", "slug": "m-and-t-bank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 730000,
+    "costOfLiving": "Very High"
+  },
+  {
+    "slug": "detroit",
+    "city": "Detroit",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "stateSlug": "michigan",
+    "population": 639111,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "40+" },
+      { "name": "Huntington Bank", "slug": "huntington", "localBranches": "30+" },
+      { "name": "Fifth Third Bank", "slug": "fifth-third", "localBranches": "25+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "20+" },
+      { "name": "PNC Bank", "slug": "pnc", "localBranches": "20+" }
+    ],
+    "medianHomePrice": 195000,
+    "costOfLiving": "Low"
+  },
+  {
+    "slug": "richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "stateSlug": "virginia",
+    "population": 226610,
+    "topBanks": [
+      { "name": "Truist", "slug": "truist", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "Capital One", "slug": "capital-one", "localBranches": "10+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "10+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "10+" }
+    ],
+    "medianHomePrice": 335000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "stateSlug": "new-york",
+    "population": 278349,
+    "topBanks": [
+      { "name": "M&T Bank", "slug": "m-and-t-bank", "localBranches": "40+" },
+      { "name": "KeyBank", "slug": "key-bank", "localBranches": "20+" },
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Citizens Bank", "slug": "citizens", "localBranches": "15+" },
+      { "name": "TD Bank", "slug": "td-bank", "localBranches": "15+" }
+    ],
+    "medianHomePrice": 240000,
+    "costOfLiving": "Moderate"
+  },
+  {
+    "slug": "salt-lake-city",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "stateSlug": "utah",
+    "population": 200567,
+    "topBanks": [
+      { "name": "Chase", "slug": "chase", "localBranches": "20+" },
+      { "name": "Wells Fargo", "slug": "wells-fargo", "localBranches": "20+" },
+      { "name": "Bank of America", "slug": "bank-of-america", "localBranches": "15+" },
+      { "name": "U.S. Bank", "slug": "us-bank", "localBranches": "15+" },
+      { "name": "Citibank", "slug": "citibank", "localBranches": "8+" }
+    ],
+    "medianHomePrice": 500000,
+    "costOfLiving": "High"
+  }
+]
