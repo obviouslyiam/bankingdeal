@@ -94,6 +94,15 @@ export default async function BestSavingsPage({ params }: { params: Promise<{ st
         <p className="text-[#8b9dc3] leading-relaxed">
           {state.name} savers have access to a wide range of savings account options. Online banks continue to lead with the highest APYs, often exceeding 4.00%, while traditional banks with {state.name} branch locations typically offer lower rates but provide in-person service. The best strategy for many {state.name} residents is to keep a local checking account for daily transactions while parking savings in a high-yield online account for maximum returns.
         </p>
+        <p className="text-[#8b9dc3] leading-relaxed mt-3 text-sm">
+          All accounts in this comparison are at{' '}
+          <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">FDIC-insured institutions</a>
+          , protecting deposits up to $250,000 per depositor. Rates move in line with{' '}
+          <a href="https://www.federalreserve.gov/monetarypolicy/openmarket.htm" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">Federal Reserve policy</a>
+          {' '}— the national average is currently around 0.45% per{' '}
+          <a href="https://www.bankrate.com/banking/savings/average-savings-account-interest-rates/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">Bankrate data</a>
+          , which makes the 4%+ rates from online banks genuinely exceptional.
+        </p>
       </div>
 
       {/* Savings Table */}
@@ -175,6 +184,16 @@ export default async function BestSavingsPage({ params }: { params: Promise<{ st
           <Link href="/guides/understanding-apy-vs-apr" className="no-underline">
             <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
               <span className="text-[#3b82f6] text-sm">Understanding APY vs APR</span>
+            </div>
+          </Link>
+          <Link href="/guides/high-yield-savings-accounts-guide-2026" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">High-Yield Savings Accounts Guide 2026</span>
+            </div>
+          </Link>
+          <Link href="/guides/cd-laddering-guide" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">CD Laddering Strategy Guide</span>
             </div>
           </Link>
         </div>

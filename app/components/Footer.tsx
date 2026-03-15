@@ -41,6 +41,60 @@ export default function Footer() {
             </ul>
           </div>
         </div>
+
+        {/* Network / Partner Sites */}
+        <div className="border-t border-[#2a3a4e] mt-10 pt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div>
+            <h4 className="text-white font-semibold mb-3 text-sm">Our Network</h4>
+            <ul className="space-y-2 text-sm">
+              <li>
+                <a href="https://polypulse.xyz" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  PolyPulse — Prediction Market Intelligence
+                </a>
+              </li>
+              <li>
+                <a href="https://polyfire.co" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  PolyFire — Prediction Market Trading Bot
+                </a>
+              </li>
+              <li>
+                <a href="https://insurerocket.com" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  InsureRocket — Insurance Comparison
+                </a>
+              </li>
+              <li>
+                <a href="https://metafever.com" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  MetaFever — AI Tools for Finance
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4 className="text-white font-semibold mb-3 text-sm">Official Resources</h4>
+            <ul className="space-y-2 text-sm">
+              <li>
+                <a href="https://www.fdic.gov" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  FDIC — Deposit Insurance Information
+                </a>
+              </li>
+              <li>
+                <a href="https://www.consumerfinance.gov" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  CFPB — Consumer Financial Protection Bureau
+                </a>
+              </li>
+              <li>
+                <a href="https://www.federalreserve.gov" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  Federal Reserve — Interest Rate Policy
+                </a>
+              </li>
+              <li>
+                <a href="https://www.irs.gov" target="_blank" rel="noopener noreferrer" className="text-[#8b9dc3] no-underline hover:text-white">
+                  IRS — Tax Information
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
         <div className="border-t border-[#2a3a4e] mt-10 pt-8">
           <p className="text-[#8b9dc3] text-xs leading-relaxed">
             <strong>Advertiser Disclosure:</strong> Some of the offers that appear on this website are from companies from which BankingDeal.com may receive compensation. This compensation may impact how and where products appear on this site (including the order in which they appear). BankingDeal.com does not include all financial companies or all available financial offers.

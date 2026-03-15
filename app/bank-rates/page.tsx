@@ -20,6 +20,24 @@ export default function BankRatesPage() {
         Compare CD rates, savings account APYs, money market rates, and mortgage rates from top banks. Browse by state or explore our national rate comparisons.
       </p>
 
+      {/* Rate context callout */}
+      <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5 mb-10 text-sm text-[#8b9dc3] leading-relaxed">
+        All savings accounts and CDs listed here are at{' '}
+        <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+          FDIC-insured banks
+        </a>
+        , meaning deposits up to $250,000 per institution are federally protected.
+        Rates move with{' '}
+        <a href="https://www.federalreserve.gov/releases/h15/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+          Federal Reserve policy
+        </a>
+        {' '}— verify current rates directly with each institution before opening an account. For independent rate benchmarks, see{' '}
+        <a href="https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+          Bankrate
+        </a>
+        .
+      </div>
+
       {/* National Rate Overview */}
       <section className="mb-12">
         <h2 className="text-2xl font-bold text-white mb-6">National High-Yield Savings Rates</h2>
@@ -41,6 +59,12 @@ export default function BankRatesPage() {
             </tbody>
           </table>
         </div>
+        <p className="text-[#8b9dc3] text-xs mt-2">
+          Rates shown are for illustration. Verify current rates directly with each institution.{' '}
+          <a href="https://www.bankrate.com/banking/cds/best-cd-rates/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            See Bankrate for additional CD rate comparisons.
+          </a>
+        </p>
       </section>
 
       {/* CD Rates by State */}
@@ -72,7 +96,7 @@ export default function BankRatesPage() {
       </section>
 
       {/* Mortgage Rates by State */}
-      <section>
+      <section className="mb-12">
         <h2 className="text-2xl font-bold text-white mb-6">Best Mortgage Rates by State</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3">
           {states.map(state => (
@@ -82,6 +106,31 @@ export default function BankRatesPage() {
               </div>
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* Rate guides */}
+      <section>
+        <h2 className="text-2xl font-bold text-white mb-6">Rate Guides</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <Link href="/guides/high-yield-savings-accounts-guide-2026" className="no-underline group">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5 hover:border-[#22c55e] transition-colors h-full">
+              <h3 className="text-white font-semibold mb-2 group-hover:text-[#22c55e] transition-colors text-sm">High-Yield Savings Accounts Guide 2026</h3>
+              <p className="text-[#8b9dc3] text-xs leading-relaxed">How they work, which banks win, and how to squeeze every dollar out of them.</p>
+            </div>
+          </Link>
+          <Link href="/guides/cd-laddering-guide" className="no-underline group">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5 hover:border-[#22c55e] transition-colors h-full">
+              <h3 className="text-white font-semibold mb-2 group-hover:text-[#22c55e] transition-colors text-sm">CD Laddering: Maximize Your Returns</h3>
+              <p className="text-[#8b9dc3] text-xs leading-relaxed">Build a CD ladder for locked-in rates and rolling liquidity with real numbers.</p>
+            </div>
+          </Link>
+          <Link href="/guides/fixed-vs-adjustable-rate-mortgage-guide" className="no-underline group">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5 hover:border-[#22c55e] transition-colors h-full">
+              <h3 className="text-white font-semibold mb-2 group-hover:text-[#22c55e] transition-colors text-sm">Fixed vs Adjustable Rate Mortgages</h3>
+              <p className="text-[#8b9dc3] text-xs leading-relaxed">The math, the scenarios, and the real answer for 2026.</p>
+            </div>
+          </Link>
         </div>
       </section>
     </div>

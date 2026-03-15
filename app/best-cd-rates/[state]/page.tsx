@@ -97,6 +97,14 @@ export default async function BestCDRatesPage({ params }: { params: Promise<{ st
         <p className="text-[#8b9dc3] leading-relaxed">
           {state.name} residents have access to both local and national banks offering competitive CD rates. Online banks typically offer the highest APYs because they have lower overhead costs, while local {state.name} banks may offer promotional rates and the convenience of in-branch service. In the current rate environment, 12-month CDs are offering some of the most attractive returns, making it an excellent time to lock in rates before any potential rate decreases.
         </p>
+        <p className="text-[#8b9dc3] leading-relaxed mt-3 text-sm">
+          CDs at all banks listed here carry{' '}
+          <a href="https://www.fdic.gov/deposit/deposits/faq.html" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">FDIC insurance up to $250,000</a>
+          {' '}per depositor, per institution. Credit union CDs are covered by the NCUA to the same limit. Rate movements track{' '}
+          <a href="https://www.federalreserve.gov/releases/h15/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">Federal Reserve benchmark rates</a>
+          {' '}— for independent rate benchmarks, cross-reference{' '}
+          <a href="https://www.bankrate.com/banking/cds/best-cd-rates/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">Bankrate&apos;s CD rate tracker</a>.
+        </p>
       </div>
 
       {/* CD Rates Table */}
@@ -178,6 +186,16 @@ export default async function BestCDRatesPage({ params }: { params: Promise<{ st
           <Link href="/guides/understanding-apy-vs-apr" className="no-underline">
             <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
               <span className="text-[#3b82f6] text-sm">Understanding APY vs APR</span>
+            </div>
+          </Link>
+          <Link href="/guides/cd-laddering-guide" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">CD Laddering Strategy: Maximize Returns</span>
+            </div>
+          </Link>
+          <Link href="/guides/high-yield-savings-accounts-guide-2026" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">High-Yield Savings Accounts Guide 2026</span>
             </div>
           </Link>
         </div>

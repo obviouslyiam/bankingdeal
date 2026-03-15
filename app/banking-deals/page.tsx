@@ -4,6 +4,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import banks from '@/data/banks.json';
 import creditCardCategories from '@/data/credit-card-categories.json';
 
+// Authority refs: CFPB (consumerfinance.gov) for consumer protections, FDIC for deposit insurance
+
 export const metadata: Metadata = {
   title: 'Banking Deals — CD Accounts, Savings, Checking, Credit Cards & More',
   description: 'Find the best banking deals on CD accounts, savings accounts, checking accounts, mortgage deals, personal loans, and credit cards from top financial institutions.',
@@ -14,8 +16,18 @@ export default function BankingDealsPage() {
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
       <Breadcrumbs items={[{ label: 'Banking Deals' }]} />
       <h1 className="text-3xl md:text-4xl font-bold text-white mb-4">Banking Deals</h1>
-      <p className="text-[#8b9dc3] text-lg mb-10 max-w-3xl">
+      <p className="text-[#8b9dc3] text-lg mb-6 max-w-3xl">
         Explore the best banking deals including CD accounts, savings accounts, checking accounts, credit cards, mortgage deals, and personal loans from leading banks.
+      </p>
+      <p className="text-[#8b9dc3] text-sm mb-10 max-w-3xl leading-relaxed">
+        All bank accounts and CDs are at{' '}
+        <a href="https://www.fdic.gov/deposit/deposits/faq.html" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+          FDIC-insured institutions
+        </a>
+        . For help understanding your consumer rights, visit the{' '}
+        <a href="https://www.consumerfinance.gov/consumer-tools/bank-accounts/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+          Consumer Financial Protection Bureau
+        </a>.
       </p>
 
       {/* Credit Card Categories */}
@@ -57,15 +69,18 @@ export default function BankingDealsPage() {
               { label: 'Best CD Rates in California', href: '/best-cd-rates/california' },
               { label: 'Best CD Rates in Texas', href: '/best-cd-rates/texas' },
               { label: 'Best CD Rates in New York', href: '/best-cd-rates/new-york' },
+              { label: 'CD Laddering Strategy Guide', href: '/guides/cd-laddering-guide' },
             ]},
             { title: 'Savings Account Deals', desc: 'High-yield savings accounts with the best APY rates. No minimums, no fees, fully FDIC insured.', links: [
               { label: 'Best Savings in Florida', href: '/best-savings-accounts/florida' },
               { label: 'Best Savings in Illinois', href: '/best-savings-accounts/illinois' },
               { label: 'Best Savings in Ohio', href: '/best-savings-accounts/ohio' },
+              { label: 'High-Yield Savings Guide 2026', href: '/guides/high-yield-savings-accounts-guide-2026' },
             ]},
             { title: 'Mortgage Deals', desc: 'Compare current mortgage rates by state. Fixed and adjustable rate options from top lenders.', links: [
               { label: 'Mortgage Rates in California', href: '/best-mortgage-rates/california' },
               { label: 'Mortgage Rates in Texas', href: '/best-mortgage-rates/texas' },
+              { label: 'Fixed vs Adjustable Rate Guide', href: '/guides/fixed-vs-adjustable-rate-mortgage-guide' },
               { label: 'Fixed vs Variable Rates Guide', href: '/guides/fixed-vs-variable-mortgage-rates' },
             ]},
           ].map((deal, idx) => (

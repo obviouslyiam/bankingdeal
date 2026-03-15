@@ -6,6 +6,13 @@ import AdvertiserDisclosure from '../../components/AdvertiserDisclosure';
 import FAQSection from '../../components/FAQSection';
 import banks from '@/data/banks.json';
 
+const AUTHORITY_LINKS = {
+  fdic: 'https://www.fdic.gov/deposit/deposits/faq.html',
+  cfpb: 'https://www.consumerfinance.gov/consumer-tools/bank-accounts/',
+  bankrate: 'https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/',
+  nerdwallet: 'https://www.nerdwallet.com/best/banking/savings-accounts',
+};
+
 type Bank = typeof banks[number];
 
 export function generateStaticParams() {
@@ -112,7 +119,32 @@ export default async function BankReviewPage({ params }: { params: Promise<{ ban
             </tbody>
           </table>
         </div>
-        <p className="text-[#8b9dc3] text-xs mt-2">Rates shown are for illustration. Verify current rates directly with {bank.name}.</p>
+        <p className="text-[#8b9dc3] text-xs mt-2">
+          Rates shown are for illustration. Verify current rates directly with {bank.name}.{' '}
+          <a href={AUTHORITY_LINKS.bankrate} target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            Compare to national averages on Bankrate.
+          </a>
+        </p>
+      </section>
+
+      {/* Safety / FDIC callout */}
+      <section className="mb-10">
+        <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5 text-sm text-[#8b9dc3] leading-relaxed">
+          <span className="text-white font-semibold">Deposit Safety: </span>
+          {bank.name} is{' '}
+          <a href={AUTHORITY_LINKS.fdic} target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            FDIC-insured
+          </a>
+          , protecting deposits up to $250,000 per depositor, per institution.
+          For questions about consumer rights or to file a complaint, visit the{' '}
+          <a href={AUTHORITY_LINKS.cfpb} target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            Consumer Financial Protection Bureau
+          </a>.
+          For additional independent comparisons, see{' '}
+          <a href={AUTHORITY_LINKS.nerdwallet} target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            NerdWallet
+          </a>.
+        </div>
       </section>
 
       {/* Products */}

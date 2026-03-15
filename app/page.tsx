@@ -55,6 +55,21 @@ export default function Home() {
             </tbody>
           </table>
         </div>
+        <p className="text-[#8b9dc3] text-xs mt-3 leading-relaxed">
+          All accounts listed are at{' '}
+          <a href="https://www.fdic.gov/deposit/deposits/faq.html" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            FDIC-insured banks
+          </a>
+          , protecting deposits up to $250,000 per depositor, per institution.
+          Rates are subject to change — verify directly with each institution.
+          For independent benchmarks, see{' '}
+          <a href="https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            Bankrate
+          </a>{' '}and{' '}
+          <a href="https://www.nerdwallet.com/best/banking/savings-accounts" target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+            NerdWallet
+          </a>.
+        </p>
       </section>
 
       {/* Category Cards */}

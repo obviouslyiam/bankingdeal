@@ -6,6 +6,35 @@ import AdvertiserDisclosure from '../../components/AdvertiserDisclosure';
 import FAQSection from '../../components/FAQSection';
 import guides from '@/data/guides.json';
 
+// Authority links injected contextually based on guide category
+const CATEGORY_AUTHORITY_LINKS: Record<string, { label: string; href: string; context: string }[]> = {
+  'Banking Basics': [
+    { label: 'FDIC Deposit Insurance FAQ', href: 'https://www.fdic.gov/deposit/deposits/faq.html', context: 'Official deposit insurance information' },
+    { label: 'CFPB Bank Account Guide', href: 'https://www.consumerfinance.gov/consumer-tools/bank-accounts/', context: 'Consumer protection resource' },
+    { label: 'Bankrate Savings Rates', href: 'https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/', context: 'Independent rate comparison' },
+  ],
+  credit: [
+    { label: 'CFPB Credit Reports Guide', href: 'https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/', context: 'Official credit reporting information' },
+    { label: 'AnnualCreditReport.com', href: 'https://www.annualcreditreport.com', context: 'Free official credit reports' },
+    { label: 'NerdWallet Credit Card Comparison', href: 'https://www.nerdwallet.com/best/credit-cards/no-annual-fee', context: 'Independent card comparison' },
+  ],
+  mortgages: [
+    { label: 'CFPB Mortgage Guide', href: 'https://www.consumerfinance.gov/consumer-tools/mortgages/', context: 'Official mortgage consumer guide' },
+    { label: 'Federal Reserve Rate Data', href: 'https://www.federalreserve.gov/releases/h15/', context: 'Benchmark interest rate data' },
+    { label: 'Bankrate Mortgage Rates', href: 'https://www.bankrate.com/mortgages/mortgage-rates/', context: 'Current national mortgage rates' },
+  ],
+  savings: [
+    { label: 'FDIC Deposit Insurance', href: 'https://www.fdic.gov/deposit/deposits/', context: 'Official deposit insurance info' },
+    { label: 'Federal Reserve Rate Policy', href: 'https://www.federalreserve.gov/monetarypolicy/openmarket.htm', context: 'Rate decisions that affect savings' },
+    { label: 'IRS Interest Income Guide', href: 'https://www.irs.gov/taxtopics/tc403', context: 'Tax treatment of interest income' },
+  ],
+  banking: [
+    { label: 'FDIC Bank Verification', href: 'https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/', context: 'Verify your bank is FDIC insured' },
+    { label: 'CFPB Checking Account Help', href: 'https://www.consumerfinance.gov/consumer-tools/bank-accounts/', context: 'Consumer rights resource' },
+    { label: 'IRS Bank Bonus Tax Info', href: 'https://www.irs.gov/taxtopics/tc403', context: 'Bonuses are taxable — IRS guidance' },
+  ],
+};
+
 type Guide = typeof guides[number];
 
 export function generateStaticParams() {
@@ -75,6 +104,28 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         ))}
       </article>
 
+      {/* Authority Sources */}
+      {CATEGORY_AUTHORITY_LINKS[guide.category] && (
+        <section className="mt-10 mb-8">
+          <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-5">
+            <h2 className="text-sm font-semibold text-white mb-3 uppercase tracking-wider">Official Sources &amp; Further Reading</h2>
+            <ul className="space-y-2">
+              {CATEGORY_AUTHORITY_LINKS[guide.category].map((link, idx) => (
+                <li key={idx} className="flex items-start gap-2 text-sm">
+                  <span className="text-[#22c55e] mt-0.5 flex-shrink-0">→</span>
+                  <span>
+                    <a href={link.href} target="_blank" rel="noopener noreferrer" className="text-[#3b82f6] hover:text-[#22c55e] no-underline">
+                      {link.label}
+                    </a>
+                    <span className="text-[#8b9dc3] ml-2">— {link.context}</span>
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
+
       {/* Key Takeaways */}
       <section className="mt-10 mb-10">
         <div className="rounded-lg border border-[#22c55e] bg-[#1a2332] p-6">
@@ -128,6 +179,16 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
           <Link href="/banking-deals" className="no-underline">
             <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
               <span className="text-[#3b82f6] text-sm">Browse All Banking Deals</span>
+            </div>
+          </Link>
+          <Link href="/best-cd-rates/california" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">Best CD Rates by State</span>
+            </div>
+          </Link>
+          <Link href="/reviews/ally" className="no-underline">
+            <div className="rounded-lg border border-[#2a3a4e] bg-[#1a2332] p-4 hover:border-[#22c55e] transition-colors">
+              <span className="text-[#3b82f6] text-sm">Read Top Bank Reviews</span>
             </div>
           </Link>
         </div>
